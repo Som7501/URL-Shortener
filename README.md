@@ -1,4 +1,4 @@
-# 🔗 URL Shortener with Authentication
+#  URL Shortener with Authentication
 
 > A **full-stack URL shortening platform** built with **Node.js, Express, MongoDB**, and **EJS**, featuring secure authentication, personal dashboards, and click analytics 📊.
 
